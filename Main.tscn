@@ -1,0 +1,6 @@
+[gd_scene format=2]
+
+[node name="Main" type="Node"]
+
+[node name="Game Timer" type="Timer" parent="."]
+autostart = true
